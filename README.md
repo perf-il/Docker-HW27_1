@@ -1,6 +1,7 @@
 # Docker-HW27_1
 
 Dockerfile:
+
 FROM python:3
 
 WORKDIR /code
